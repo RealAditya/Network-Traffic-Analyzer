@@ -21,7 +21,7 @@ A real-time network traffic analysis tool with a web-based dashboard for monitor
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Network_Analyzer.git
+git remote add origin https://github.com/RealAditya/Network-Traffic-Analyzer.git
 cd Network_Analyzer
 ```
 
@@ -35,6 +35,10 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+## Output
+
+![image](https://github.com/user-attachments/assets/73e7429b-eac5-43f5-bb19-f5770f65ff64)
+
 
 ## Usage
 
